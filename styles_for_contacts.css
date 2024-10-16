@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.red-letter {
+    color: red;
+    font-size: 50px;
+}
+
+.contact-info p {
+    font-size: px;
+}
+
+.carousel {
+    max-width: 100%;  /* Ограничивает ширину до 100% контейнера */
+    margin: 0 auto;   /* Центрирует карусель */
+}
+
+.carousel img {
+    height: auto;     /* Подгоняет высоту изображения автоматически */
+    max-height: 1500px;  /* Ограничивает максимальную высоту, если нужно */
+}
+
+
